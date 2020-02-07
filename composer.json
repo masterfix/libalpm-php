@@ -1,0 +1,7 @@
+{
+    "name": "masterfix/libalpm",
+    "description": "Wrapper library for libalpm (pacman) using FFI",
+    "require": {
+        "php": "^7.4",
+    }
+}
